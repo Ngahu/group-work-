@@ -1,0 +1,74 @@
+.journal {
+    font-size: 45px;
+    font-weight: bold;
+    margin: 50px;
+}
+.sc {
+    font-size: 50px;
+    font font-weight: 500;
+    font font-family: inherit;
+}
+.btn {
+    display: inline-block;
+    margin-bottom: 20px;
+}
+.btn-alt {
+    border: 1px solid;
+    padding: 10px 30px;
+    background-color: white;
+}
+.moja {
+    color: red;
+}
+#frr {
+    background-color: black;
+    color: black;
+    padding: 100px;
+}
+.kam1 {
+    padding: 30px;
+    float: left;
+}
+.kam2 {
+    padding: 30px;
+    float: left;
+}
+.kam3 {
+    padding: 30px;
+    float: left;
+}
+.kam4 {
+    padding: 30px;
+    float: left;
+}
+.kam5 {
+    padding: 30px;
+    float: left;
+}
+.sty {
+    text-align: left;
+}
+#op {
+    background-color: red;
+}
+#ln{
+    float: left;
+}
+.text{
+    float: left;
+}
+.material{
+    float: left;
+}
+.and{
+    float: left;
+}
+.hand{
+    float: left;
+}
+.with{
+    float: left;
+}
+.ll{
+    float: left;
+}
